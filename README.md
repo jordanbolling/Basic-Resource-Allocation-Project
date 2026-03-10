@@ -10,7 +10,7 @@ The project involves a job assignment of jobs between 3 people with the objectiv
 - Manual calculation
 <br />
 
-[Project Excel File](https://github.com/jordanbolling/Data-Envelopment-Analysis-DEA-Analysis-Using-Excel/blob/main/DEA%20Excel.xlsx)
+[Project Excel File](https://github.com/jordanbolling/Basic-Resource-Allocation-Project/blob/main/Assignment%20Excel.xlsx)
 
 #### **Project Workflow**
 
