@@ -57,12 +57,12 @@ It is now appropriate to construct a mathematical model around this problem and 
 
 **Mathematical Model**
 
-This problem is a special kind of transportation problem (possibility of transforming the values into a matrix). More specifically, it is a special kind of least-cost problem as it is a minimization objective. Therefore, like project 2, a simple LP model can be generated to find a solution (‘Superprof’,2019).  The solution is found through the following steps.
+This problem is a special kind of transportation problem (possibility of transforming the values into a matrix). More specifically, it is a special kind of least-cost problem as it is a minimisation objective. Therefore, like project 2, a simple LP model can be generated to find a solution (‘Superprof’,2019).  The solution is found through the following steps.
 
 •	Objective function
-With the objective of minimizing total cost, the following is the objective function of the model with the decision variables being the weights of each potential cost to Klyne (Xi).
+With the objective of minimising total cost, the following is the objective function of the model with the decision variables being the weights of each potential cost to Klyne (Xi).
 
-Minimize C= 15X1 + 9X2 + 10X3 + 10X4 + 15X5 + 12X6 + 9X7 + 10X8 + 8X9
+Minimise C= 15X1 + 9X2 + 10X3 + 10X4 + 15X5 + 12X6 + 9X7 + 10X8 + 8X9
 
 Subject to, constraints on how many jobs each child can do and how many children are allowed to take on each job,
 
@@ -88,5 +88,5 @@ It is found that the total cost is $27.
 
 Conclusion
 
-Both the Hungarian and the LP model have produced the same result that assigning Karen to mow, John to paint and Terri to wash and minimize the total cost to $27. It can be said the Hungarian is ideal for this kind of assignment problem because it usually finds an optimal solution for simple issues like Klyne’s and is faster than complex LP models (‘Stack Exchange’,2022). However, if a situation was to become larger and have many more constraints, a LP model would be more accurate. Spreadsheet models are also more flexible as it is a program and therefore, it is only necessary to input new values to change the outcome completely. Additionally, it is not too difficult to add and alter constraints or the program (‘Stack Exchange’,2022).
+Both the Hungarian and the LP model have produced the same result that assigning Karen to mow, John to paint and Terri to wash and minimise the total cost to $27. It can be said the Hungarian is ideal for this kind of assignment problem because it usually finds an optimal solution for simple issues like Klyne’s and is faster than complex LP models (‘Stack Exchange’,2022). However, if a situation was to become larger and have many more constraints, a LP model would be more accurate. Spreadsheet models are also more flexible as it is a program and therefore, it is only necessary to input new values to change the outcome completely. Additionally, it is not too difficult to add and alter constraints or the program (‘Stack Exchange’,2022).
 With this information, it is recommended that both approaches should be used they have many differences and therefore complement each other in tackling any assignment problems in the future.
